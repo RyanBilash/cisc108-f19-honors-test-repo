@@ -1,5 +1,6 @@
 # cisc108-f19-honors-test-repo
 Fork me!
 
+Ryan Bilash
 # About me
-Add a quick description of yourself down here. No using the Git website! You have to do it from within PyCharm.
+This is a forked repository for a PyCharm & Git test
